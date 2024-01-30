@@ -1,0 +1,31 @@
+abbreviation,city,conference,division,full_name,name
+IND,Indiana,East,Central,Indiana Pacers,Pacers
+NYK,New York,East,Atlantic,New York Knicks,Knicks
+BOS,Boston,East,Atlantic,Boston Celtics,Celtics
+MEM,Memphis,West,Southwest,Memphis Grizzlies,Grizzlies
+TOR,Toronto,East,Atlantic,Toronto Raptors,Raptors
+OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder,Thunder
+DET,Detroit,East,Central,Detroit Pistons,Pistons
+LAC,LA,West,Pacific,LA Clippers,Clippers
+GSW,Golden State,West,Pacific,Golden State Warriors,Warriors
+PHI,Philadelphia,East,Atlantic,Philadelphia 76ers,76ers
+UTA,Utah,West,Northwest,Utah Jazz,Jazz
+SAC,Sacramento,West,Pacific,Sacramento Kings,Kings
+CLE,Cleveland,East,Central,Cleveland Cavaliers,Cavaliers
+HOU,Houston,West,Southwest,Houston Rockets,Rockets
+POR,Portland,West,Northwest,Portland Trail Blazers,Trail Blazers
+ATL,Atlanta,East,Southeast,Atlanta Hawks,Hawks
+ORL,Orlando,East,Southeast,Orlando Magic,Magic
+MIL,Milwaukee,East,Central,Milwaukee Bucks,Bucks
+PHX,Phoenix,West,Pacific,Phoenix Suns,Suns
+MIN,Minnesota,West,Northwest,Minnesota Timberwolves,Timberwolves
+DAL,Dallas,West,Southwest,Dallas Mavericks,Mavericks
+DEN,Denver,West,Northwest,Denver Nuggets,Nuggets
+MIA,Miami,East,Southeast,Miami Heat,Heat
+WAS,Washington,East,Southeast,Washington Wizards,Wizards
+BKN,Brooklyn,East,Atlantic,Brooklyn Nets,Nets
+CHA,Charlotte,East,Southeast,Charlotte Hornets,Hornets
+SAS,San Antonio,West,Southwest,San Antonio Spurs,Spurs
+LAL,Los Angeles,West,Pacific,Los Angeles Lakers,Lakers
+CHI,Chicago,East,Central,Chicago Bulls,Bulls
+NOP,New Orleans,West,Southwest,New Orleans Pelicans,Pelicans
