@@ -1,31 +1,31 @@
-,Team (3 Letter),Team City,Team Full Name,Team Short Name
-0,IND,Indiana,Indiana Pacers,Pacers
-1,NYK,New York,New York Knicks,Knicks
-2,BOS,Boston,Boston Celtics,Celtics
-3,MEM,Memphis,Memphis Grizzlies,Grizzlies
-4,TOR,Toronto,Toronto Raptors,Raptors
-5,OKC,Oklahoma City,Oklahoma City Thunder,Thunder
-6,DET,Detroit,Detroit Pistons,Pistons
-7,LAC,LA,LA Clippers,Clippers
-8,GSW,Golden State,Golden State Warriors,Warriors
-9,PHI,Philadelphia,Philadelphia 76ers,76ers
-10,UTA,Utah,Utah Jazz,Jazz
-11,SAC,Sacramento,Sacramento Kings,Kings
-12,CLE,Cleveland,Cleveland Cavaliers,Cavaliers
-13,HOU,Houston,Houston Rockets,Rockets
-14,POR,Portland,Portland Trail Blazers,Trail Blazers
-15,ATL,Atlanta,Atlanta Hawks,Hawks
-16,ORL,Orlando,Orlando Magic,Magic
-17,MIL,Milwaukee,Milwaukee Bucks,Bucks
-18,PHX,Phoenix,Phoenix Suns,Suns
-19,MIN,Minnesota,Minnesota Timberwolves,Timberwolves
-20,DAL,Dallas,Dallas Mavericks,Mavericks
-21,DEN,Denver,Denver Nuggets,Nuggets
-22,MIA,Miami,Miami Heat,Heat
-23,WAS,Washington,Washington Wizards,Wizards
-24,BKN,Brooklyn,Brooklyn Nets,Nets
-25,CHA,Charlotte,Charlotte Hornets,Hornets
-26,SAS,San Antonio,San Antonio Spurs,Spurs
-27,LAL,Los Angeles,Los Angeles Lakers,Lakers
-28,CHI,Chicago,Chicago Bulls,Bulls
-29,NOP,New Orleans,New Orleans Pelicans,Pelicans
+,Team (3 Letter),Team City,Team Short Name
+0,IND,Indiana,Pacers
+1,NYK,New York,Knicks
+2,BOS,Boston,Celtics
+3,MEM,Memphis,Grizzlies
+4,TOR,Toronto,Raptors
+5,OKC,Oklahoma City,Thunder
+6,DET,Detroit,Pistons
+7,LAC,LA,Clippers
+8,GSW,Golden State,Warriors
+9,PHI,Philadelphia,76ers
+10,UTA,Utah,Jazz
+11,SAC,Sacramento,Kings
+12,CLE,Cleveland,Cavaliers
+13,HOU,Houston,Rockets
+14,POR,Portland,Trail Blazers
+15,ATL,Atlanta,Hawks
+16,ORL,Orlando,Magic
+17,MIL,Milwaukee,Bucks
+18,PHX,Phoenix,Suns
+19,MIN,Minnesota,Timberwolves
+20,DAL,Dallas,Mavericks
+21,DEN,Denver,Nuggets
+22,MIA,Miami,Heat
+23,WAS,Washington,Wizards
+24,BKN,Brooklyn,Nets
+25,CHA,Charlotte,Hornets
+26,SAS,San Antonio,Spurs
+27,LAL,Los Angeles,Lakers
+28,CHI,Chicago,Bulls
+29,NOP,New Orleans,Pelicans
