@@ -1,31 +1,38 @@
-,Team (3 Letter),Team City,Team Short Name
-0,IND,Indiana,Pacers
-1,NYK,New York,Knicks
-2,BOS,Boston,Celtics
-3,MEM,Memphis,Grizzlies
-4,TOR,Toronto,Raptors
-5,OKC,Oklahoma City,Thunder
-6,DET,Detroit,Pistons
-7,LAC,LA,Clippers
-8,GSW,Golden State,Warriors
-9,PHI,Philadelphia,76ers
-10,UTA,Utah,Jazz
-11,SAC,Sacramento,Kings
-12,CLE,Cleveland,Cavaliers
-13,HOU,Houston,Rockets
-14,POR,Portland,Trail Blazers
-15,ATL,Atlanta,Hawks
-16,ORL,Orlando,Magic
-17,MIL,Milwaukee,Bucks
-18,PHX,Phoenix,Suns
-19,MIN,Minnesota,Timberwolves
-20,DAL,Dallas,Mavericks
-21,DEN,Denver,Nuggets
-22,MIA,Miami,Heat
-23,WAS,Washington,Wizards
-24,BKN,Brooklyn,Nets
-25,CHA,Charlotte,Hornets
-26,SAS,San Antonio,Spurs
-27,LAL,Los Angeles,Lakers
-28,CHI,Chicago,Bulls
-29,NOP,New Orleans,Pelicans
+,Team (3 Letter),Team City,Team State,Team Name
+0,ATL,Atlanta,Georgia,Atlanta Hawks
+1,BKN,Brooklyn,New York,Brooklyn Nets
+2,BOS,Boston,Massachusetts,Boston Celtics
+3,CHA,Charlotte,North Carolina,Charlotte Hornets
+4,CHA,Charlotte,North Carolina,Charlotte Hornets
+5,CHI,Chicago,Illinois,Chicago Bulls
+6,CLE,Cleveland,Ohio,Cleveland Cavaliers
+7,DAL,Dallas,Texas,Dallas Mavericks
+8,DEN,Denver,Colorado,Denver Nuggets
+9,DET,Detroit,Michigan,Detroit Pistons
+10,GSW,San Francisco,California,Golden State Warriors
+11,HOU,Houston,Texas,Houston Rockets
+12,IND,Indianapolis,Indiana,Indiana Pacers
+13,LAC,Los Angeles,California,LA Clippers
+14,LAL,Los Angeles,California,Los Angeles Lakers
+15,MEM,Memphis,Tennessee,Memphis Grizzlies
+16,MIA,Miami,Florida,Miami Heat
+17,MIL,Milwaukee,Wisconsin,Milwaukee Bucks
+18,MIN,Minneapolis,Minnesota,Minnesota Timberwolves
+19,NJN,New York,New York,New York Knicks
+20,NOH,New Orleans,Louisiana,New Orleans Pelicans
+21,NOK,New Orleans,Louisiana,New Orleans Pelicans
+22,NOP,New Orleans,Louisiana,New Orleans Pelicans
+23,NYK,New York,New York,New York Knicks
+24,OKC,Oklahoma City,Oklahoma,Oklahoma City Thunder
+25,ORL,Orlando,Florida,Orlando Magic
+26,PHI,Philadelphia,Pennsylvania,Philadelphia 76ers
+27,PHX,Phoenix,Arizona,Phoenix Suns
+28,POR,Portland,Oregon,Portland Trail Blazers
+29,SAC,Sacramento,California,Sacramento Kings
+30,SAS,San Antonio,Texas,San Antonio Spurs
+31,SEA,Oklahoma City,Oklahoma,Oklahoma City Thunder
+32,TOR,Toronto,Canada,Toronto Raptors
+33,UTA,Salt Lake City,Utah,Utah Jazz
+34,VAN,Memphis,Tennessee,Memphis Grizzlies
+35,WAS,Washington DC,Washington DC,Washington Wizards
+36,CHH,Charlotte,North Carolina,Charlotte Hornets
